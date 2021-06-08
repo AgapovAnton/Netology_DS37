@@ -1,0 +1,4 @@
+import numpy as np
+v = np.array ([0., 1., -10., -np.pi])
+v
+v.share
